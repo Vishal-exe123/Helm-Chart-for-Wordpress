@@ -1,1 +1,3 @@
-# Arth_helm_taks_24
+# Helm chart to launch wordpress and mysql database
+## Tools: Kubernetes, Helm chart
+## Languages: YAML
